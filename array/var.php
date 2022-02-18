@@ -1,0 +1,1 @@
+var mahasiswa = ['Benny', 'suhendra', 'Ryan', 'Aden', 'Popy', 'suminar'];
